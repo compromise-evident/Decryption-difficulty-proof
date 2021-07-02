@@ -12,6 +12,6 @@ under P therefore the two classes mismatch--mathematically represented as P≠NP
 
 -------------------------------------------------------------------------------------
 
-*P class contains a list of functions with **easily discoverable solutions.**
+* P class contains a list of functions with **easily discoverable solutions.**
 
-*NP class contains functions with **easily verifiable solutions.**
+* NP class contains functions with **easily verifiable solutions.**
